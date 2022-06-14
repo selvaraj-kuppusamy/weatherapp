@@ -2,5 +2,5 @@
 
 ## Weather App
 
-![Weather App Output](https://github.com/selvaraj-kuppusamy/weather-app/blob/main/output.png)
+![Weather App Output](https://github.com/selvaraj-kuppusamy/weatherapp/blob/main/output.png)
 
